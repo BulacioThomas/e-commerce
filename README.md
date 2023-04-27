@@ -12,7 +12,7 @@ Este proyecto fue creado con el cli de React [Create React App](https://github.c
 La app abre en el puerto:  [http://localhost:3000](http://localhost:3000)
 
 Las dependencias que se utilizaron para este proyecto son: 
-
+- [x] React Router Dom
 - [x] Firebase
 - [x] Material UI
 - [x] Axios
